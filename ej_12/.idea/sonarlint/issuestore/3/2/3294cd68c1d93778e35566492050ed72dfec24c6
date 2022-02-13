@@ -1,0 +1,12 @@
+
+G
+java:S1659"%Declare "texto_2" on a separate line.(ƒחש׳רÿÿÿÿ8Üוהן/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒחש׳רÿÿÿÿ8‰דן/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒחש׳רÿÿÿÿ8נוהן/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­תÞ•ÿÿÿÿÿ8וין/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­תÞ•ÿÿÿÿÿ8³טין/
+r	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ונ־ÿÿÿÿÿ8†עךן/
+r	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ונ־ÿÿÿÿÿ8¶כן/
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°רÿֻûÿÿÿÿ
+R
+java:S4973-"<Strings and Boxed types should be compared using "equals()".(¢¬ׁ
